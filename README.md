@@ -1,1 +1,1 @@
-# Exercício da Imersão Dev Back-End da Alura.
+# Exercício da Imersão Dev Back-End da Alura
